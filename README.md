@@ -9,10 +9,10 @@ SNI Finder is tool to find domain address hosted on same ip address on main doma
 <br/>
 Copy full command above, and paste on linux terminal (termux android).
 
-<br/>
+
 # How to use SNI Host Finder ?
 
 1. Run commamd above,
 2. Enter target domain/host/ip (any)
 3. press enter..
-</br> There you go sni hosts on the host you just entered. (Super Fast)
+*There you go sni hosts on the host you just entered. (Super Fast)
