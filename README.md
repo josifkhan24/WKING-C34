@@ -15,5 +15,7 @@ Copy full command above, and paste on linux terminal (termux android).
 1. Run commamd above,
 2. Enter target domain/host/ip (any)
 3. press enter..
-#Wow
+
+
+# Wow
 *There you go sni hosts on the host you just entered. (Super Fast)
